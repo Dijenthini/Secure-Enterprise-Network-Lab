@@ -9,27 +9,29 @@ network with 5 VLANs, inter-VLAN routing, DHCP services, port security, and acce
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Network Architecture](#network-architecture)
+- [Project Overview](#-project-overview)
+- [Network Architecture](#-network-architecture)
   - [Physical Topology](#physical-topology)
   - [Logical Topology](#logical-topology)
   - [VLAN Design](#vlan-design)
   - [IP Addressing Scheme](#ip-addressing-scheme)
-- [Technologies Implemented](#technologies-implemented)
-- [Configuration Summary](#configuration-summary)
+- [Technologies Implemented](#-technologies-implemented)
+- [Configuration Summary](#-configuration-summary)
   - [Router Configuration](#router-configuration)
   - [Switch Configuration](#switch-configuration)
-- [Security Features](#security-features)
+- [Security Features](#-security-features)
   - [Port Security](#port-security)
   - [Access Control Lists (ACLs)](#access-control-lists-acls)
   - [SSH & Secure Management](#ssh--secure-management)
-- [Verification & Testing](#verification--testing)
+- [Verification & Testing](#-verification--testing)
   - [DHCP Verification](#dhcp-verification)
   - [ACL Testing Results](#acl-testing-results)
   - [Port Security Verification](#port-security-verification)
   - [SSH Access Verification](#ssh-access-verification)
-- [Screenshots](#screenshots)
-
+- [Screenshots](#-screenshots)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+  
 ---
 
 ## 📖 Project Overview
@@ -836,7 +838,6 @@ This project was completed as part of my **CCNA: Introduction to Networks** self
 
 ## 📄 License
 
-This project is for **educational purposes only**.
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
