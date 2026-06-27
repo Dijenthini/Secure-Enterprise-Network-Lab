@@ -638,33 +638,34 @@ R1>
 
 | # | Filename | Description |
 |---|----------|-------------|
-| 1 | `01-topology-logical.png` | Logical network topology |
-| 2 | `02-vlans-sw0.png` | VLAN configuration on Switch0 |
-| 3 | `03-vlans-sw1.png` | VLAN configuration on Switch1 |
-| 4 | `04-trunk-ports-sw0.png` | Trunk ports on Switch0 |
-| 5 | `05-trunk-ports-sw1.png` | Trunk ports on Switch1 |
-| 6 | `06-dhcp-bindings.png` | DHCP IP assignments |
-| 7 | `07-dhcp-pools.png` | DHCP pool configuration |
-| 8 | `08-router-interfaces.png` | Router interface status |
-| 9 | `09-routing-table.png` | Routing table |
-| 10 | `10-router-config-1.png` | Router configuration part 1 |
-| 11 | `11-router-config-2.png` | Router configuration part 2 |
-| 12 | `12-router-config-3.png` | Router configuration part 3 |
+| 1 | `topology-logical.png` | Logical network topology |
+| 2 | `vlans-sw0.png` | VLAN configuration on Switch0 |
+| 3 | `vlans-sw1.png` | VLAN configuration on Switch1 |
+| 4 | `sw0-trunk-ports.png` | Trunk ports on Switch0 |
+| 5 | `sw1-trunk-ports.png` | Trunk ports on Switch1 |
+| 6 | `dhcp-bindings.png` | DHCP IP assignments |
+| 7 | `dhcp-pools.png` | DHCP pool configuration |
+| 8 | `router-interfaces.png` | Router interface status |
+| 9 | `routing-table.png` | Routing table |
+| 10 | `router-config-1.png` | Router configuration part 1 |
+| 11 | `router-config-2.png` | Router configuration part 2 |
+| 12 | `router-config-3.png` | Router configuration part 3 |
+| 13 | `router-config-4.png` |                             |
 | 13 | `13-acl-config.png` | ACL configuration |
-| 14 | `14-acl-match-counters.png` | ACL match counters |
+| 14 | `acl-match-counters.png` | ACL match counters |
 | 15 | `15-acl-block-finance-hr.png` | Finance→HR blocked |
-| 16 | `16-acl-allow-hr-finance.png` | HR→Finance allowed |
-| 17 | `17-acl-allow-finance-it.png` | Finance→IT allowed |
-| 18 | `18-acl-block-monitor-hr.png` | Monitoring→HR blocked |
-| 19 | `19-port-security.png` | Port security summary |
+| 16 | `acl-allow-hr-to-finance.png` | HR→Finance allowed |
+| 17 | `acl-allow-finance-to-it.png` | Finance→IT allowed |
+| 18 | `acl-block-monitor-to-hr.png` | Monitoring→HR blocked |
+| 19 | `port-security.png` | Port security summary |
 | 20 | `20-port-security-detail.png` | Port security detail |
-| 21 | `21-port-security-violation.png` | Security violation proof |
-| 22 | `22-ssh-config.png` | SSH configuration |
-| 23 | `23-ssh-access.png` | SSH access test |
-| 24 | `24-login-banner.png` | Login banner |
-| 25 | `25-physical-topology.png` | Physical rack view |
-| 26 | `26-success-ping.png` | Successful ping test |
-| 27 | `27-switch-config.png` | Switch configuration |
+| 21 | `port-security-violation.png` | Security violation proof |
+| 22 | `ssh-config.png` | SSH configuration |
+| 23 | `ssh-access.png` | SSH access test |
+| 24 | `login-banner.png` | Login banner |
+| 25 | `physical-topology.png` | Physical rack view |
+| 26 | `success-ping.png` | Successful ping test |
+| 27 | `switch-config.png` | Switch configuration |
 
 ---
 
