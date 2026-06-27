@@ -638,7 +638,7 @@ R1>
 
 | # | Filename | Description |
 |---|----------|-------------|
-| 1 | ![Logical topology] (screenshots/topology-logical.png) | Logical network topology |
+| 1 | ![Logical topology](screenshots/topology-logical.png) | Logical network topology |
 | 2 | `vlans-sw0.png` | VLAN configuration on Switch0 |
 | 3 | `vlans-sw1.png` | VLAN configuration on Switch1 |
 | 4 | `sw0-trunk-ports.png` | Trunk ports on Switch0 |
