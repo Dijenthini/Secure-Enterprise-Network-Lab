@@ -91,7 +91,7 @@ In real enterprise networks:
 
 ---
 
-## 🏗️ Network Architecture
+## 🏗️Network Architecture
 
 ### Physical Topology
 
