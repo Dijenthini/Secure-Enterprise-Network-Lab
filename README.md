@@ -10,7 +10,7 @@ network with 5 VLANs, inter-VLAN routing, DHCP services, port security, and acce
 ## 📋 Table of Contents
 
 - [Project Overview](#-project-overview)
-- [🏗️ Network Architecture](#-network-architecture)
+- [Network Architecture](#network-architecture)
   - [Physical Topology](#physical-topology)
   - [Logical Topology](#logical-topology)
   - [VLAN Design](#vlan-design)
@@ -91,7 +91,7 @@ In real enterprise networks:
 
 ---
 
-## 🏗️ Network Architecture
+## Network Architecture
 
 ### Physical Topology
 
