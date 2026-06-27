@@ -1,4 +1,4 @@
-# 🌐 Secure Enterprise Network Lab
+# 🌐 Enterprise Network Security Lab: VLANs, DHCP, ACLs & Port Security
 
 **Built as part of my CCNA: Introduction to Networks self-study journey, this project implements a complete secure enterprise 
 network with 5 VLANs, inter-VLAN routing, DHCP services, port security, and access control lists.**
