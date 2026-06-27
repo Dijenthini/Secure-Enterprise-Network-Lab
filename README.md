@@ -15,8 +15,8 @@ network with 5 VLANs, inter-VLAN routing, DHCP services, port security, and acce
   - [Logical Topology](#logical-topology)
   - [VLAN Design](#vlan-design)
   - [IP Addressing Scheme](#ip-addressing-scheme)
-- [Technologies Implemented](#technologies-implemented)
-- [Configuration Summary](#configuration-summary)
+- [Technologies Implemented](#-technologies-implemented)
+- [Configuration Summary](#-configuration-summary)
   - [Router Configuration](#router-configuration)
   - [Switch Configuration](#switch-configuration)
 - [Security Features](#-security-features)
@@ -29,8 +29,8 @@ network with 5 VLANs, inter-VLAN routing, DHCP services, port security, and acce
   - [Port Security Verification](#port-security-verification)
   - [SSH Access Verification](#ssh-access-verification)
 - [Screenshots](#-screenshots)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
+- [Acknowledgments](#-acknowledgments)
+- [License](#-license)
   
 ---
 
@@ -91,7 +91,7 @@ In real enterprise networks:
 
 ---
 
-## 🏗️Network Architecture
+## 📂 Network Architecture
 
 ### Physical Topology
 
@@ -203,7 +203,7 @@ The network is physically organized in a **Main Wiring Closet** with all devices
 
 ---
 
-## Technologies Implemented
+## 🚀 Technologies Implemented
 
 ### Layer 2 Technologies
 - **VLANs**: 5 isolated broadcast domains for departmental segmentation
@@ -229,7 +229,7 @@ The network is physically organized in a **Main Wiring Closet** with all devices
 
 ---
 
-## Configuration Summary
+## 📝 Configuration Summary
 
 ### Router Configuration (R1)
 
@@ -821,7 +821,7 @@ R1>
 ---
 ---
 
-## Acknowledgments
+## 📝 Acknowledgments
 
 This project was completed as part of my **CCNA: Introduction to Networks** self-study journey. It demonstrates practical application of:
 
@@ -836,7 +836,7 @@ This project was completed as part of my **CCNA: Introduction to Networks** self
 
 ---
 
-## License
+## 📧 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
