@@ -638,13 +638,16 @@ R1>
 
 ## 📸 Screenshots
 
-### Network Topology
+### 🌐 Network Topology
+
+#### Logical Topology
 
 ![Logical Topology](Screenshots/topology-logical.png)
 
 *Logical network topology showing all devices and connections*
 
 ---
+#### Physical Topology
 
 ![Physical Topology](Screenshots/physical-topology.png)
 
@@ -653,23 +656,34 @@ R1>
 ---
 ---
 
-### VLAN & Trunk Configuration
+### 🖧 VLAN & Trunk Configuration
+
+#### VLANs on Switch0
 
 ![VLANs Switch0](Screenshots/vlans-sw0.png)
 
 *VLAN configuration on Switch0 (VLANs 10, 20, 30)*
 
 ---
+
+#### VLANs on Switch1
+
 ![VLANs Switch1](Screenshots/vlans-sw1.png)
 
 *VLAN configuration on Switch1 (VLANs 40, 50)*
 
 ---
+
+#### Trunk Ports on Switch0
+
 ![Trunk Ports Switch0](Screenshots/SW0-trunk-ports.png)
 
 *Trunk ports on Switch0 (VLANs 10, 20, 30)*
 
 ---
+
+#### Trunk Ports on Switch1
+
 ![Trunk Ports Switch1](Screenshots/SW1-trunk-ports.png)
 
 *Trunk ports on Switch1 (VLANs 40, 50)*
@@ -677,13 +691,16 @@ R1>
 ---
 ---
 
-### DHCP Configuration
+### 📡 DHCP Configuration
+
+#### DHCP Bindings
 
 ![DHCP Bindings](Screenshots/dhcp-bindings.png)
 
 *DHCP IP assignments for all PCs*
 
 ---
+#### DHCP Pools
 
 ![DHCP Pools](Screenshots/dhcp-pools.png)
 
@@ -692,19 +709,23 @@ R1>
 ---
 ---
 
-### Router Configuration
+### ⚙️ Router Configuration
+
+#### Router Interfaces
 
 ![Router Interfaces](Screenshots/router-interfaces.png)
 
 *Router interface status and IP addresses*
 
 ---
+#### Routing Table
 
 ![Routing Table](Screenshots/routing-table.png)
 
 *Routing table showing connected routes*
 
 ---
+#### Router Configuration - Part 1
 
 ![Router Config 1](Screenshots/router-config-1.png)
 
@@ -712,17 +733,23 @@ R1>
 
 ---
 
+#### Router Configuration - Part 2
+
 ![Router Config 2](Screenshots/router-config-2.png)
 
 *Router configuration - DHCP pools and timezone*
 
 ---
 
+#### Router Configuration - Part 3
+
 ![Router Config 3](Screenshots/router-config-3.png)
 
 *Router configuration - Subinterfaces and ACLs*
 
 ---
+
+#### Router Configuration - Part 4
 
 ![Router Config 4](Screenshots/router-config-4.png)
 
@@ -731,7 +758,9 @@ R1>
 ---
 ---
 
-### Access Control Lists (ACLs)
+### 🔒 Access Control Lists (ACLs)
+
+#### ACL Match Counters
 
 ![ACL Match Counters](Screenshots/acl-match-counters.png)
 
@@ -739,11 +768,15 @@ R1>
 
 ---
 
+#### ACL Block: Finance → HR
+
 ![ACL Block: Finance → HR](Screenshots/acl-block-finance-hr.png)
 
 *Finance (PC2) → HR (PC0) blocked by ACL 100*
 
 ---
+
+#### ACL Allow: HR → Finance
 
 ![ACL Allow: HR → Finance](Screenshots/acl-allow-hr-to-finance.png)
 
@@ -751,11 +784,15 @@ R1>
 
 ---
 
+#### ACL Allow: Finance → IT
+
 ![ACL Allow: Finance → IT](Screenshots/acl-allow-finance-to-it.png)
 
 *Finance (PC2) → IT (PC4) allowed*
 
 ---
+
+#### ACL Block: Monitoring → HR
 
 ![ACL Block: Monitoring → HR](Screenshots/acl-block-monitor-to-hr.png)
 
@@ -764,7 +801,9 @@ R1>
 ---
 ---
 
-### Port Security
+### 🛡️ Port Security
+
+#### Port Security Summary
 
 ![Port Security](Screenshots/port-security.png)
 
@@ -772,11 +811,15 @@ R1>
 
 ---
 
+#### Port Security Detail
+
 ![Port Security Detail](Screenshots/port-security-detail.png)
 
 *Port security detail for Fa0/1 (sticky MAC)*
 
 ---
+
+#### Port Security Violation
 
 ![Port Security Violation](Screenshots/port-security-violation.png)
 
@@ -785,7 +828,9 @@ R1>
 ---
 ---
 
-### SSH & Secure Management
+### 🔐 SSH & Secure Management
+
+#### SSH Configuration
 
 ![SSH Configuration](Screenshots/ssh-config.png)
 
@@ -793,11 +838,14 @@ R1>
 
 ---
 
+#### SSH Access Test
+
 ![SSH Access Test](Screenshots/ssh-access.png)
 
 *SSH connection from PC0 to Router0*
 
 ---
+#### Login Banner
 
 ![Login Banner](Screenshots/login-banner.png)
 
@@ -806,13 +854,15 @@ R1>
 ---
 ---
 
-### Verification
+### ✅ Verification
 
+#### Successful Ping Test
 ![Successful Ping Test](Screenshots/success-ping.png)
 
 *Successful ping between HR and Finance*
 
 ---
+#### Switch Configuration
 
 ![Switch Configuration](Screenshots/switch-config.png)
 
